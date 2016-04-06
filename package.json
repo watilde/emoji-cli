@@ -26,5 +26,8 @@
     "commander": "^2.9.0",
     "emojilib": "^2.0.2",
     "update-notifier": "^0.6.3"
+  },
+  "devDependencies": {
+    "standard": "^6.0.8"
   }
 }
