@@ -22,4 +22,7 @@
     "url": "https://github.com/watilde/emoji-cli/issues"
   },
   "homepage": "https://github.com/watilde/emoji-cli",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
 }
