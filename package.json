@@ -18,6 +18,9 @@
     "emoji"
   ],
   "author": "Daijiro Wachi",
+  "contributors": [
+    "Jim Cummins <jcummins@fisdap.net>"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/watilde/emoji-cli/issues"
