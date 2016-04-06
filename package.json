@@ -7,7 +7,8 @@
     "emoji": "bin/emoji-cli.js"
   },
   "scripts": {
-    "test": "standard"
+    "pretest": "standard",
+    "test": "tap test/*.js"
   },
   "repository": {
     "type": "git",
