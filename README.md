@@ -1,0 +1,2 @@
+# emoji-cli
+Emoji searcher
