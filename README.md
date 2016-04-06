@@ -32,6 +32,26 @@ Pick a emoji randomly
 Emoji not found
 ![emoji not found](./img/emoji_not_found.png)
 
+## api
+Basic usage. Checkout the `test/` folder for `require('emoji-cli')` examples.
+```
+var emoji = require('emoji-cli')
+
+// callback ------------------------------------------+
+// options ---------------------------+               |
+// keywords -------+                  |               |
+// method -+       |                  |               |
+//         v       v                  v               v
+    emoji.search(['face', 'smile'], {randome: true}, function (emoji) {
+      console.log(emoji)
+    })
+```
+
+### emoji.search(keywords, options, callback)
++ `keywords` {Array} Arguments to `emoji` command
++ `options` {Object} Can be `random: true`
++ `callback` {Function} To receive results
+
 ## based on
 Thanks :exclamation:
 + https://github.com/muan/emoji-cli

@@ -11,7 +11,7 @@ updateNotifier({
 
 program
   .version(pkg.version)
-  .usage('<keyword>')
+  .usage('<keywords>')
   .option('-r, --random', 'pick a emoji randomly and copy it to clipboard')
   .parse(process.argv)
 
