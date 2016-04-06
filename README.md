@@ -1,4 +1,4 @@
-# emoji-cli
+# emoji-cli [![Build Status](https://api.travis-ci.org/watilde/emoji-cli.svg)](https://travis-ci.org/watilde/emoji-cli)
 Emoji searcher
 
 ## install
@@ -21,16 +21,16 @@ Options:
 
 ## screenshots
 One result
-![emoji](./images/emoji.png)
+![emoji](./img/emoji.png)
 
 Multiple results
-![emojis](./images/emojis.png)
+![emojis](./img/emojis.png)
 
 Pick a emoji randomly
-![random emoji](./images/random_emoji.png)
+![random emoji](./img/random_emoji.png)
 
 Emoji not found
-![emoji not found](./images/emoji_not_found.png)
+![emoji not found](./img/emoji_not_found.png)
 
 ## based on
 Thanks :exclamation:
