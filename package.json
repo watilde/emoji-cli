@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/watilde/emoji-cli",
   "dependencies": {
-    "commander": "^2.9.0"
+    "commander": "^2.9.0",
+    "emojilib": "^2.0.2"
   }
 }
