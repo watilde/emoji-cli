@@ -1,0 +1,25 @@
+{
+  "name": "emoji-cli",
+  "version": "0.0.1",
+  "description": "Emoji searcher",
+  "main": "lib/main.js",
+  "bin": {
+    "emoji": "bin/emoji-cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/watilde/emoji-cli.git"
+  },
+  "keywords": [
+    "emoji"
+  ],
+  "author": "Daijiro Wachi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/watilde/emoji-cli/issues"
+  },
+  "homepage": "https://github.com/watilde/emoji-cli",
+}
