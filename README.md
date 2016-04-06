@@ -1,4 +1,4 @@
-# emoji-cli
+# emoji-cli [![Build Status](https://api.travis-ci.org/watilde/emoji-cli.svg)](https://travis-ci.org/watilde/emoji-cli)
 Emoji searcher
 
 ## install
