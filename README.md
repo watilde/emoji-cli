@@ -10,7 +10,7 @@ $ npm install -g emoji-cli
 ## usage
 See `emoji -h`
 ```
-Usage: emoji <keyword>
+Usage: emoji <keywords>
 
 Options:
 
