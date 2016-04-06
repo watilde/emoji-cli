@@ -7,3 +7,10 @@ test('multiple results', function (t) {
     t.end()
   })
 })
+
+test('all results', function (t) {
+  emoji.search([], {}, function (emojis) {
+    t.ok(emojis.length > 0)
+    t.end()
+  })
+})
