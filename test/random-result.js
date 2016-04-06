@@ -7,3 +7,10 @@ test('one results', function (t) {
     t.end()
   })
 })
+
+test('one result from all results', function (t) {
+  emoji.search([], {random: true}, function (emojis) {
+    t.ok(emojis.length > 0)
+    t.end()
+  })
+})
