@@ -20,5 +20,7 @@ program.parse(process.argv)
 if (program.args.length === 0) {
   program.help()
 } else {
-  emojiCli.search(program.args, program.options)
+  emojiCli.search(program.args, {
+    random: program.random
+  })
 }
