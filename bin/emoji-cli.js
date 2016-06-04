@@ -19,6 +19,8 @@ program
 
 program.parse(argv)
 
+console.log('(To exit, press ^C or choose ".exit")')
+
 emojiCli.search(program.args, {
   random: program.random
 })
