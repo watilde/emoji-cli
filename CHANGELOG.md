@@ -2,6 +2,15 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## v0.2.0 - 2016-06-04
+### Added
+- [`acf966`](https://github.com/watilde/emoji-cli/commit/acf96660515dcd75f4b9909ab57b057df0dc07a9) [#9](https://github.com/watilde/emoji-cli/pull/9) add the choice of quit from cli as ".exit"([@watilde](https://github.com/watilde))
+
+### Changed
+- [`3444f0`](https://github.com/watilde/emoji-cli/pull/10/commits/3444f0fc3ce52e2d2a1a9ffae2ed5516594e5b82) [#10](https://github.com/watilde/emoji-cli/pull/10) update update-notifier version to 0.7.x from 0.6.x([@watilde](https://github.com/watilde))
+- [`499a938`](https://github.com/watilde/emoji-cli/pull/10/commits/499a938642c69c77b980bdf928b54b928baae2b1) [#10](https://github.com/watilde/emoji-cli/pull/10) update standard version to 0.7.x from 0.6.x 0.6.x([@watilde](https://github.com/watilde))
+
+
 ## v0.1.0 - 2016-04-06
 ### Added
 - [`111b5e2`](https://github.com/watilde/emoji-cli/commit/111b5e25a8cd5247e9dd7916c53f6d2417d71300) [#1](https://github.com/watilde/emoji-cli/pull/1) allow ``--random` when no search term is provided([@jimthedev](https://github.com/jimthedev))
