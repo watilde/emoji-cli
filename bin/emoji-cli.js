@@ -15,12 +15,14 @@ updateNotifier({
 program
   .version(pkg.version)
   .usage('<keywords>')
-  .option('-r, --random', 'pick a emoji randomly and copy it to clipboard')
+  .option('-f, --fuzzy', 'use fuzzy search')
+  .option('-r, --random', 'pick an emoji randomly and copy it to clipboard')
 
 program.parse(argv)
 
 console.log('(To exit, press ^C or choose ".exit")')
 
 emojiCli.search(program.args, {
-  random: program.random
+  random: program.random,
+  fuzzy: program.fuzzy
 })
