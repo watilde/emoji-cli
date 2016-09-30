@@ -19,7 +19,8 @@
   ],
   "author": "Daijiro Wachi",
   "contributors": [
-    "Jim Cummins <jcummins@fisdap.net>"
+    "Jim Cummins <jcummins@fisdap.net>",
+    "Peter Kaske <kaske@edv-wasmeier.de>"
   ],
   "license": "MIT",
   "bugs": {

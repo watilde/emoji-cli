@@ -2,6 +2,15 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## v0.3.0 - 2016-09-30
+### Added
+- [`55b343`](https://github.com/watilde/emoji-cli/commit/55b34344329a84b0d33fcc82dbf516059060cc26) [#11](https://github.com/watilde/emoji-cli/pull/11) Implement optional fuzzy search([@pkaske](https://github.com/pkaske))
+
+### Fixed
+- [`22820f`](https://github.com/watilde/emoji-cli/commit/22820f049e2ea6c4f1e3dcd515ed7f1f8142b09c) [#11](https://github.com/watilde/emoji-cli/pull/11) Fix the lint error([@pkaske](https://github.com/pkaske))
+- [`56bf53`](https://github.com/watilde/emoji-cli/commit/56bf53c063eda02b0f7b6980316c482daad2d50b) [#11](https://github.com/watilde/emoji-cli/pull/11) Apply fuzzy search also on the emoji name([@pkaske](https://github.com/pkaske))
+- [`d0a92a`](https://github.com/watilde/emoji-cli/commit/d0a92a02473d3bd37d4bab760eb95c0fe5b2b8e3) [#11](https://github.com/watilde/emoji-cli/pull/11) Add a test for the fuzzy search([@pkaske](https://github.com/pkaske))
+
 ## v0.2.0 - 2016-06-04
 ### Added
 - [`acf966`](https://github.com/watilde/emoji-cli/commit/acf96660515dcd75f4b9909ab57b057df0dc07a9) [#9](https://github.com/watilde/emoji-cli/pull/9) add the choice of quit from cli as ".exit"([@watilde](https://github.com/watilde))
