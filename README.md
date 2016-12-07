@@ -16,6 +16,7 @@ Options:
 
   -h, --help     output usage information
   -V, --version  output the version number
+  -f, --fuzzy    use fuzzy search
   -r, --random   pick a emoji randomly and copy it to clipboard
 ```
 
@@ -49,9 +50,8 @@ var emoji = require('emoji-cli')
 
 ### emoji.search(keywords, options, callback)
 + `keywords` {Array} Arguments to `emoji` command
-+ `options` {Object} Can be `random: true`
++ `options` {Object} Can be `random: true`, or `fuzzy: true`
 + `callback` {Function} To receive results
 
-## based on
-Thanks :exclamation:
-+ https://github.com/muan/emoji-cli
+## License
+MIT
