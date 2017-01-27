@@ -39,7 +39,7 @@
     "update-notifier": "^0.7.0"
   },
   "devDependencies": {
-    "standard": "^7.1.2",
+    "standard": "^8.6.0",
     "tap": "^5.7.0"
   }
 }
