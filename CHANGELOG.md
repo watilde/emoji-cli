@@ -2,6 +2,10 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## v0.3.1 - 2017-02-04
+### Fixed
+- [`4d831c`](https://github.com/watilde/emoji-cli/commit/4d831cc88764ea45142524f0b4ae9a25f62754da) [#13](https://github.com/watilde/emoji-cli/pull/13) Update deps([@watilde](https://github.com/watilde))
+
 ## v0.3.0 - 2016-09-30
 ### Added
 - [`55b343`](https://github.com/watilde/emoji-cli/commit/55b34344329a84b0d33fcc82dbf516059060cc26) [#11](https://github.com/watilde/emoji-cli/pull/11) Implement optional fuzzy search([@pkaske](https://github.com/pkaske))
