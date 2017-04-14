@@ -43,7 +43,7 @@ var emoji = require('emoji-cli')
 // keywords -------+                  |               |
 // method -+       |                  |               |
 //         v       v                  v               v
-    emoji.search(['face', 'smile'], {random: true}, function (emoji) {
+    emoji.search(['face', 'smile'], {random: true}, function (err, emoji) {
       console.log(emoji)
     })
 ```
