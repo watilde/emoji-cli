@@ -17,7 +17,7 @@ test('no results with fuzzy search', function (t) {
 
 test('one result with fuzzy search', function (t) {
   emoji.search(['sush'], {fuzzy: true}, function (emojis) {
-    t.equal(emojis.length, 1)
+    t.equal(emojis.length, 3)
     t.end()
   })
 })
